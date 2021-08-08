@@ -1,2 +1,2 @@
 # Algorithm
-알고리즘 문제 Solution 코드들입니다.
+알고리즘 스터디에서 다룬 문제들 외의 문제들에 대한 Solution입니다.
