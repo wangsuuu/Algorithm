@@ -24,9 +24,7 @@ public class WorkShop1_2 {
 					blankIncreasing=false;
 					
 				}
-				
 			}
 		}
-
 	}
 
