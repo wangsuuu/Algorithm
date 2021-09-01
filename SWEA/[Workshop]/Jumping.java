@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //4방탐색 연습을 위한 소금쟁이 문제
 
-public class Solution22 {
+public class Jumping {
 	// 위치가 겹치면 나중에 뛴 소금쟁이만 죽는다.
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -77,7 +77,6 @@ public class Solution22 {
 					} 
 				}
 	         }
-		//System.out.printf("# %d %d%n", i+1, survived); //입력 복붙 시 출력이 뭔가 좀 이상하게 나옴
 		answer[idx++]=survived;
 	   }
 	 for(int i=1; i<=T; i++) {
